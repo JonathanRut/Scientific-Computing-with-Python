@@ -1,0 +1,1 @@
+9999999999{"name": "atomicwrites", "version": "1.4.1", "summary": "Atomic file writes.", "requires_dist": null, "requires_python": ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*", "files": [{"file": "atomicwrites-1.4.1.tar.gz", "hash": "sha256:81b2c9071a49367a7f770170e5eec8cb66567cfbbc8c73d20ce5ca4a8d71cf11"}], "yanked": false, "_cache_version": "2.0.0"}
